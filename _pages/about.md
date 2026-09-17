@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024. My research focuses on natural language processing and machine learning.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 Research Interests
 ======
@@ -30,8 +30,24 @@ Research Experience
 
 Publications
 ======
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) — First author, with Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. ([Code](https://github.com/jxhe/Universal_Truthfulness_Hyperplane))
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv). First author, with Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv). First author, with Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024). First author, with Shiqi Chen, Yu Cheng, Junxian He.
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024). With Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023). With Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023). With Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
-Wait, that's wrong. Let me correct - SynLogic has a GitHub code repo but the exact URL isn't specified. Let me not link to the wrong repo.
+Skills / Research Expertise
+======
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models
+- LLM Truthfulness and Interpretability
 
-Let me redo this properly.
+Contact
+======
+- Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- GitHub: [Vicent0205](https://github.com/Vicent0205)
+- Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
