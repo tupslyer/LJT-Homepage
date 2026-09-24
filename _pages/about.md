@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.Eng. from Shanghai Jiao Tong University in June 2024, where I was also previously advised by Prof. Junxian He during my undergraduate studies. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University in June 2024, where I was also previously advised by Prof. Junxian He during my undergraduate studies. My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
