@@ -12,17 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 - Present
-  * HKUST NLP Group, advised by Professor Junxian He
 * B.Eng., Shanghai Jiao Tong University, 2020 - 2024
-  * Zhiyuan Honor Scholarship
 
 Research Experience
 ======
-* February 2025 - Present: Research Intern, MINIMAX
-* June 2024 - September 2024: Research Intern, Tencent WXG
-  * Advisor: Zifei Shan
-* June 2023 - December 2023: Research Intern, Shanghai AI Lab
-  * Advisor: Prof. Yu Cheng
+* Research Intern, MINIMAX, February 2025 - Present
+* Research Intern, Tencent WXG, June 2024 - September 2024
+* Research Intern, Shanghai AI Lab, June 2023 - December 2023
 
 Research Interests
 ======
@@ -32,13 +28,9 @@ Research Interests
 * Hallucination in Vision-Language Models (VLM)
 * LLM Truthfulness and Interpretability
 
-Skills
+Awards
 ======
-* Programming: Python
-* Machine Learning / Deep Learning frameworks: PyTorch
-* Natural Language Processing
-* Large Language Models
-* Vision-Language Models
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 Publications
 ======
@@ -49,6 +41,6 @@ Publications
 Contact
 ======
 * Email: jliugi@connect.ust.hk
-* GitHub: https://github.com/Vicent0205
+* GitHub: Vicent0205
 * Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
 * X (Twitter): @junteng88716710
