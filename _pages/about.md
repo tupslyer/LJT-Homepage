@@ -42,11 +42,14 @@ My research focuses on natural language processing and machine learning, with sp
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-## Selected Publications
+## Publications
 
-{% for post in site.publications reversed limit: 6 %}
-  {% include archive-single.html %}
-{% endfor %}
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv) — First author
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv) — First author
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — First author
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
 
 [View all publications →]({{ '/publications/' | relative_url }})
 
