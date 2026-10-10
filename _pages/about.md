@@ -42,6 +42,14 @@ My research focuses on natural language processing and machine learning, with sp
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
+## Selected Publications
+
+{% for post in site.publications reversed limit: 6 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+[View all publications →]({{ '/publications/' | relative_url }})
+
 ## Contact
 
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
